@@ -15,4 +15,4 @@ Main Screen with VU Meter visualizer, running under DOSBox
 
 Menus preview
 
-![Menus](file_menu.png) ![Menus](audio_menu.png) ![Menus](visual_menu.png)
+![Menus](screenshots/file_menu.png) ![Menus](screenshots/audio_menu.png) ![Menus](screenshots/visual_menu.png)
