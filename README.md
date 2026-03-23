@@ -12,3 +12,7 @@ Main Screen with Bars visualizer, running under DOSBox
 Main Screen with VU Meter visualizer, running under DOSBox
 
 ![Main Screen with vu meter visualizer, running under DOSBox](screenshots/Main_view_with_visualizer_3.png)
+
+Menus preview
+
+![Menus](file_menu.png) ![Menus](audio_menu.png) ![Menus](visual_menu.png)
