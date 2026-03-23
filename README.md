@@ -93,7 +93,7 @@ Compatibility Ansi-only Mode
 ## Supported File Types
 
 * **Audio:** `.mp3` (MPEG Audio), `.wav` (Uncompressed PCM)
-* **Playlists:** `.m3u`, `.m3u8` (MP3 URL Playlists)
+* **Playlists:** `.m3u` (MP3 URL Playlists)
 
 ## Known Issues (v1.0)
 
