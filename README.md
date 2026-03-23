@@ -97,7 +97,7 @@ Compatibility Ansi-only Mode
 
 ## Known Issues (v1.0)
 
-1. **UI Flicker** When the "Frequency Bars" visualizer is active, users on slower systems (or running under heavy emulation) may notice slight flickering in the UI when moving the mouse or hovering over buttons. This is a known limitation caused by the heavy CPU load of the real-time Fast Fourier Transform (FFT) audio math competing with the custom VRAM window manager for processor cycles. This is also caused due to inefficient hover graphics processing.
+1. **UI Flicker** users on slower systems (or running under heavy emulation) may notice slight flickering in the UI when moving the mouse or hovering over buttons. This is a known limitation caused by the heavy CPU load of the real-time Fast Fourier Transform (FFT) audio math competing with the custom VRAM window manager for processor cycles. This is also caused due to inefficient hover graphics processing.
 
 2. **Slight Pitch Shift on Sound Blaster Pro 2.0 (Emulated)**
    When running the player under modern DOS emulators (like SBEMU) in strict Sound Blaster Pro 2.0 mode, audio may play at a slightly higher pitch (approx. 3-5% faster). This is caused by a mathematical conflict between how the original SB Pro hardware derived sample rates from its internal 1MHz crystal, and how modern emulators attempt to forcefully correct legacy Time Constants. 
