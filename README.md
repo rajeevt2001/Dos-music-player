@@ -45,4 +45,4 @@ Display settings will be available in the later versions
 
 Compatibility Ansi-only Mode
 
-![Settings](screenshots/ansi_mode.png)
+![ansi_mode](screenshots/ansi_mode2.png)
