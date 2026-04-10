@@ -17,6 +17,37 @@ Menus preview
 
 ![Menus](screenshots/file_menu.png)  .  ![Menus](screenshots/audio_menu.png)  .  ![Menus](screenshots/visual_menu.png)
 
+# Keyboard Shortcuts
+
+| Action | Shortcut Key(s) |
+| :--- | :--- |
+| **GLOBAL & PLAYER VIEW** | |
+| Play / Pause | `Spacebar` |
+| Stop (Rewind to start & pause) | `X` / `x` |
+| Seek Forward 5 seconds | `F` / `f` or `Right Arrow` |
+| Seek Backward 5 seconds | `B` / `b` or `Left Arrow` |
+| Volume Up by 5% | `+` / `=` or `Up Arrow` |
+| Volume Down by 5% | `-` / `_` or `Down Arrow` |
+| Toggle Loop Mode | `L` / `l` |
+| Play Previous Track in Queue | `Shift` + `Left Arrow` |
+| Play Next Track in Queue | `Shift` + `Right Arrow` |
+| Close Menu / Exit to DOS | `Esc` |
+| Exit to DOS (when menus closed) | `Q` / `q` |
+| **FILE BROWSER VIEW** | |
+| Cycle Focus (Address/Search/List) | `Tab` |
+| Scroll File List / Folder History | `Up Arrow` / `Down Arrow` |
+| Move Cursor in Text Inputs | `Left Arrow` / `Right Arrow` |
+| Delete Character in Inputs | `Backspace` |
+| Open Folder / Play File / Confirm | `Enter` |
+| **PLAYLIST VIEW** | |
+| Scroll Queue / Select Tracks | `Up Arrow` / `Down Arrow` |
+| Play Highlighted Track | `Enter` |
+| Remove Track from Queue | `Delete` (`Del`) |
+| **MEDIA INFO VIEW** | |
+| Scroll ID3 Tags & Metadata | `Up Arrow` / `Down Arrow` |
+
+> **Note on Settings:** The Settings menus are heavily mouse-driven for toggling visual states and theme colors. Please use the **Mouse** to interact with the Settings tabs.
+
 # Features
 
 Core Playback Engine
