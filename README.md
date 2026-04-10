@@ -106,7 +106,7 @@ For flawless 44.1kHz stereo MP3 decoding while running the FFT visualizer and VR
 
  - OS: MS-DOS 5.0+, FreeDOS, or modern emulators (DOSBox, DOSBox-X, PCem)
 
- - CPU: Intel Pentium 1 90 MHz or faster (or equivalent AMD/Cyrix)
+ - CPU: Intel Pentium-1 90 MHz or faster (or equivalent AMD/Cyrix)
 
  - RAM: 8 MB
 
@@ -122,11 +122,11 @@ native .wav files, or using the internal Transcoder Cache to pre-convert MP3s be
 
  - OS: MS-DOS 5.0+ with a DPMI host (CWSDPMI)
 
- - CPU: Intel 80486 DX2-66 (A math coprocessor is highly recommended) (use -486 flag at command line to get proper playback)
+ - CPU: Intel 486 DX2-66 (A math coprocessor is highly recommended) (use -486 flag at command line to get proper playback)
 
  - RAM: 7 MB
 
- - Audio: PC Speaker  (use -speaker flag at command line for that)
+ - Audio: PC Speaker (use -speaker flag at command line for that)
 
  - Video: VGA or MDA (Monochrome Display Adapter)
    
@@ -137,7 +137,9 @@ native .wav files, or using the internal Transcoder Cache to pre-convert MP3s be
 
 DOS 6.22 on Real Hardware with SB16 (Intel i486, 16MB Ram, 2GB CF Card Storage)
 
-DOS 6.22 on Real Hardware with sbemu (SB16) driver (AMD Ryzen 3200g)
+DOS 6.22 on Real Hardware with sbemu (SB16) driver (AMD Ryzen 3200g, 16GB Ram)
+
+DOS 6.22 on Real Hardware with sbemu (SB16) driver (Intel Core 2 Quad Q9550, 4GB Ram)
 
 DOS version 7.10 on DOSBox-X (Various CPUs, 16MB Ram)
 
