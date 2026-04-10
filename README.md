@@ -143,6 +143,6 @@ DOS version 7.10 on DOSBox-X (Various CPUs, 16MB Ram)
 
 [version 1.0]
 
-DOS version 7.10 on DOSBox-X version 2025.12.01
-
 DOS 6.22 on Real Hardware with sbemu (SB16) driver (AMD Ryzen 3200g)
+
+DOS version 7.10 on DOSBox-X (Various CPUs, 16MB Ram)
